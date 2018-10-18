@@ -25,3 +25,7 @@ function main() {
 }
 
 window.onload = main;
+
+var chatMessage = ["message"];
+var myJSON = JSON.stringify(chatMessage);
+
